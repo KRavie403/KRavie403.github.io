@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: main page
+date: 2024-09-26
 type: landing
 
 sections:
@@ -11,7 +11,7 @@ sections:
         포트폴리오
         |클라이언트 개발자
       image:
-        filename: avatar.jpg
+        filename: avatar.png
       text: |
         <br>
         
