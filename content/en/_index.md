@@ -8,15 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        포트폴리오
-        |클라이언트 개발자
+        Portfolio
+        |Client Software Developer
       image:
         filename: avatar.png
       text: |
         <br>
         
-        C# 개발 등에 숙련된 **Client Software 엔지니어**입니다. 
-        현재 **전주**에 있습니다.
+        I am a **Client Software Engineer** proficient in C# development. I am currently located in **Jeonju**.
   
   - block: collection
     content:
