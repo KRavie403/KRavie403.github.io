@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        포트폴리오
+        |클라이언트 개발자
       image:
-        filename: welcome.jpg
+        filename: avatar.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        C# 개발 등에 숙련된 **Client Software 엔지니어**입니다. 
+        현재 **전주**에 있습니다.
   
   - block: collection
     content:
