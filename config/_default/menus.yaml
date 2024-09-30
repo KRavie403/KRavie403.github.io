@@ -7,15 +7,50 @@ main:
   - name: Home
     url: /
     weight: 10
+    sub_menus:
+      - name: Welcome
+        url: /home/welcome
+        weight: 1
+      - name: Latest Updates
+        url: /latest-updates/
+        weight: 2
   - name: About
     url: about
     weight: 20
+    sub_menus:
+      - name: Biography
+        url: /about/biography/
+        weight: 1
+      - name: Mission & Vision
+        url: /about/mission-vision/
+        weight: 2
   - name: SkillSet
     url: skillset
     weight: 30
+    sub_menus:
+      - name: TechnicalSkills
+        url: /skillset/technical-skills/
+        weight: 1
+      - name: SoftSkills
+        url: /skillset/soft-skills/
+        weight: 2
   - name: Projects
     url: projects
     weight: 40
+    sub_menus:
+      - name: MainProjects
+        url: /projects/main-projects/
+        weight: 1
+      - name: SubProjects
+        url: /projects/sub-projects/
+        weight: 2
   - name: Contact
     url: contact
     weight: 50
+        sub_menus:
+      - name: ContactForm
+        url: /contact/form/
+        weight: 1
+      - name: SocialMediaLinks
+        url: /contact/social-media/
+        weight: 2
