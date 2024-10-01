@@ -1,0 +1,75 @@
+baseURL = "https://kravie403.github.io/"  # 도메인을 설정하세요
+languageCode = "ko"  # 기본 언어를 한국어로 설정
+title = "Portfolio"  # 사이트 제목
+theme = "Research Group"  # 사용하고 있는 테마 이름
+
+[params]
+  description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
+  author = "George Cushen"
+  homepage = "https://github.com/wowchemy/starter-hugo-research-group"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+    [[menu.main.sub]]
+      name = "Welcome"
+      url = "/home/welcome"
+      weight = 1
+    [[menu.main.sub]]
+      name = "Latest Updates"
+      url = "/latest-updates/"
+      weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 20
+    [[menu.main.sub]]
+      name = "Biography"
+      url = "/about/biography/"
+      weight = 1
+    [[menu.main.sub]]
+      name = "Mission & Vision"
+      url = "/about/mission-vision/"
+      weight = 2
+
+  [[menu.main]]
+    name = "SkillSet"
+    url = "/skillset"
+    weight = 30
+    [[menu.main.sub]]
+      name = "TechnicalSkills"
+      url = "/skillset/technical-skills/"
+      weight = 1
+    [[menu.main.sub]]
+      name = "SoftSkills"
+      url = "/skillset/soft-skills/"
+      weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 40
+    [[menu.main.sub]]
+      name = "MainProjects"
+      url = "/projects/main-projects/"
+      weight = 1
+    [[menu.main.sub]]
+      name = "SubProjects"
+      url = "/projects/sub-projects/"
+      weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 50
+    [[menu.main.sub]]
+      name = "ContactForm"
+      url = "/contact/form/"
+      weight = 1
+    [[menu.main.sub]]
+      name = "SocialMediaLinks"
+      url = "/contact/social-media/"
+      weight = 2
