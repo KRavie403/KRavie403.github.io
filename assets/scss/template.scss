@@ -9,44 +9,47 @@
 }
 
 /* Navigation Menu */
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+nav {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 
-nav ul li {
-  position: relative;
-  display: inline-block;
-  padding: 10px;
-}
+    li {
+      position: relative;
+      display: inline-block;
+      padding: 10px;
 
-nav ul ul {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #333;
-  padding: 0;
-  list-style: none;
-  min-width: 200px;
-}
+      // Show sub-menu on hover
+      &:hover > ul {
+        display: block;
+      }
 
-nav ul ul li {
-  display: block;
-  padding: 10px;
-  color: white;
-}
+      // Sub-menu styling
+      ul {
+        display: none; // 서브 메뉴는 기본적으로 숨김
+        position: absolute; // 위치 설정
+        top: 100%;
+        left: 0;
+        background-color: #333; // 배경색
+        padding: 0;
+        min-width: 200px;
 
-nav ul li:hover > ul {
-  display: block;
-}
+        li {
+          display: block;
+          padding: 10px;
+          color: white;
 
-nav ul ul li a {
-  color: white;
-  text-decoration: none;
-}
+          a {
+            color: white;
+            text-decoration: none;
 
-nav ul ul li a:hover {
-  background-color: #444;
+            &:hover {
+              background-color: #444; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+            }
+          }
+        }
+      }
+    }
+  }
 }
