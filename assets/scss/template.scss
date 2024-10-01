@@ -7,3 +7,46 @@
 .cta-group {
   justify-content: center;
 }
+
+/* Navigation Menu */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+}
+
+nav ul ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #333;
+  padding: 0;
+  list-style: none;
+  min-width: 200px;
+}
+
+nav ul ul li {
+  display: block;
+  padding: 10px;
+  color: white;
+}
+
+nav ul li:hover > ul {
+  display: block;
+}
+
+nav ul ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul ul li a:hover {
+  background-color: #444;
+}
