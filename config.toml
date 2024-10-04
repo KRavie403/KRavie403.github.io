@@ -9,66 +9,101 @@ title = "Portfolio"  # 사이트 제목
 
 [menu]
   [[menu.main]]
+    identifier = "home"
     name = "Home"
     url = "/"
     weight = 10
-    [[menu.main.sub]]
-      name = "Welcome"
-      url = "/home/welcome"
-      weight = 1
-    [[menu.main.sub]]
-      name = "Latest Updates"
-      url = "/latest-updates/"
-      weight = 2
 
   [[menu.main]]
+    identifier = "welcome"
+    name = "Welcome"
+    url = "/home/welcome"
+    parent = "home"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "latest-updates"
+    name = "Latest Updates"
+    url = "/latest-updates"
+    parent = "home"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
     name = "About"
     url = "/about"
     weight = 20
-    [[menu.main.sub]]
-      name = "Biography"
-      url = "/about/biography/"
-      weight = 1
-    [[menu.main.sub]]
-      name = "Mission & Vision"
-      url = "/about/mission-vision/"
-      weight = 2
 
   [[menu.main]]
+    identifier = "biography"
+    name = "Biography"
+    url = "/about/biography"
+    parent = "about"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "mission-vision"
+    name = "Mission & Vision"
+    url = "/about/mission-vision"
+    parent = "about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "skillset"
     name = "SkillSet"
     url = "/skillset"
     weight = 30
-    [[menu.main.sub]]
-      name = "TechnicalSkills"
-      url = "/skillset/technical-skills/"
-      weight = 1
-    [[menu.main.sub]]
-      name = "SoftSkills"
-      url = "/skillset/soft-skills/"
-      weight = 2
 
   [[menu.main]]
+    identifier = "technical-skills"
+    name = "TechnicalSkills"
+    url = "/skillset/technical-skills"
+    parent = "skillset"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "soft-skills"
+    name = "SoftSkills"
+    url = "/skillset/soft-skills"
+    parent = "skillset"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
     name = "Projects"
     url = "/projects"
     weight = 40
-    [[menu.main.sub]]
-      name = "MainProjects"
-      url = "/projects/main-projects/"
-      weight = 1
-    [[menu.main.sub]]
-      name = "SubProjects"
-      url = "/projects/sub-projects/"
-      weight = 2
 
   [[menu.main]]
+    identifier = "main-projects"
+    name = "MainProjects"
+    url = "/projects/main-projects"
+    parent = "projects"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "sub-projects"
+    name = "SubProjects"
+    url = "/projects/sub-projects"
+    parent = "projects"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
     name = "Contact"
     url = "/contact"
     weight = 50
-    [[menu.main.sub]]
-      name = "ContactForm"
-      url = "/contact/form/"
-      weight = 1
-    [[menu.main.sub]]
-      name = "SocialMediaLinks"
-      url = "/contact/social-media/"
-      weight = 2
+
+  [[menu.main]]
+    identifier = "contact-form"
+    name = "ContactForm"
+    url = "/contact/form"
+    parent = "contact"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "social-media"
+    name = "SocialMediaLinks"
+    url = "/contact/social-media"
+    parent = "contact"
+    weight = 2
