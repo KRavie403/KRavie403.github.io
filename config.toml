@@ -11,7 +11,7 @@ title = "Portfolio"  # 사이트 제목
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "/home"
     weight = 10
 
   [[menu.main]]
