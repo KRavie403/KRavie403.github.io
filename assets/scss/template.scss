@@ -31,7 +31,7 @@ nav {
         position: absolute; // 위치 설정
         top: 100%;
         left: 0;
-        background-color: #333; // 배경색
+        background-color: #333; // 다크 모드 기본 배경색
         padding: 0;
         min-width: 200px;
 
@@ -46,6 +46,47 @@ nav {
 
             &:hover {
               background-color: #444; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Dark Mode Styles */
+body.dark {
+  background-color: #121212; // 다크 모드 배경색
+  color: white; // 기본 텍스트 색상
+
+  nav {
+    ul {
+      li {
+        ul {
+          background-color: #333; // 다크 모드 서브 메뉴 배경색
+        }
+      }
+    }
+  }
+}
+
+/* Light Mode Styles */
+body.light {
+  background-color: #d8f6ff; // 라이트 모드 배경색
+  color: black; // 기본 텍스트 색상
+
+  nav {
+    ul {
+      li {
+        ul {
+          background-color: #f1f1f1; // 라이트 모드 서브 메뉴 배경색
+          color: black; // 서브 메뉴 텍스트 색상
+
+          a {
+            color: black; // 라이트 모드에서 링크 색상
+
+            &:hover {
+              background-color: #e1e1e1; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
             }
           }
         }
