@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    ientifier: home
+    identifier: home
     weight: 10
   - name: Welcome
     parent: home
