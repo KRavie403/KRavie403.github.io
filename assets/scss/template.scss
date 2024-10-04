@@ -31,27 +31,32 @@ nav {
         position: absolute; // 위치 설정
         top: 100%;
         left: 0;
-        background-color: #333; // 다크 모드 기본 배경색
+        background-color: #d8f6ff; // 기본 배경색 (라이트 모드)
         padding: 0;
         min-width: 200px;
 
         li {
           display: block;
           padding: 10px;
-          color: white;
+          color: black; // 라이트 모드에서 서브 메뉴 텍스트 색상
 
           a {
-            color: white;
-            text-decoration: none;
+            color: black; // 라이트 모드에서 링크 색상
 
             &:hover {
-              background-color: #444; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+              background-color: #d8f6ff; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
             }
           }
         }
       }
     }
   }
+}
+
+/* 기본 스타일 (라이트 모드가 기본) */
+body {
+  background-color: #c3e1e9; // 라이트 모드 배경색
+  color: black; // 기본 텍스트 색상
 }
 
 /* Dark Mode Styles */
@@ -70,9 +75,9 @@ body.dark {
   }
 }
 
-/* Light Mode Styles */
+/* Light Mode Styles (기본적으로 라이트 모드) */
 body.light {
-  background-color: #c3e1e9; // 라이트 모드 배경색
+  background-color: #d8f6ff; // 라이트 모드 배경색
   color: black; // 기본 텍스트 색상
 
   nav {
@@ -86,7 +91,7 @@ body.light {
             color: black; // 라이트 모드에서 링크 색상
 
             &:hover {
-              background-color: #e1e1e1; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+              background-color: #d8f6ff; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
             }
           }
         }
