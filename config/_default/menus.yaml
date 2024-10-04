@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Welcome
     parent: home
-    url: home/welcome/
+    url: /
     weight: 10
   - name: Latest Updates
     parent: home
