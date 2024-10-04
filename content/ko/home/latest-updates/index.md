@@ -22,3 +22,4 @@ sections:
     design:
       view: card
       columns: '1'
+---
