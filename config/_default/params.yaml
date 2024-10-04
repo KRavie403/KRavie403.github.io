@@ -59,7 +59,7 @@ footer:
 locale:
   date_format: 'Oct 4, 2024'
   time_format: '3:04 PM'
-  address_format: ko
+  address_format: en-us
 
 # Site features
 
