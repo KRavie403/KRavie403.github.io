@@ -5,52 +5,61 @@
 
 main:
   - name: Home
-    url: /
+    identifier: home
     weight: 10
-    sub_menus:
-      - name: Welcome
-        url: /home/welcome
-        weight: 1
-      - name: Latest Updates
-        url: /latest-updates/
-        weight: 2
-  - name: About
-    url: about
+  - name: Welcome
+    parent: home
+    url: home/welcome/
+    weight: 10
+  - name: Latest Updates
+    parent: home
+    url: home/latest-updates/
     weight: 20
-    sub_menus:
-      - name: Biography
-        url: /about/biography/
-        weight: 1
-      - name: Mission & Vision
-        url: /about/mission-vision/
-        weight: 2
+
+  - name: About
+    identifier: about
+    weight: 20
+  - name: Biography
+    parent: about
+    url: about/biography/
+    weight: 10
+  - name: Mission & Vision
+    parent: about
+    url: about/mission-vision/
+    weight: 20
+
   - name: SkillSet
-    url: skillset
+    identifier: skillset
     weight: 30
-    sub_menus:
-      - name: TechnicalSkills
-        url: /skillset/technical-skills/
-        weight: 1
-      - name: SoftSkills
-        url: /skillset/soft-skills/
-        weight: 2
+  - name: TechnicalSkills
+    parent: skillset
+    url: skillset/technical-skills/
+    weight: 10
+  - name: SoftSkills
+    parent: skillset
+    url: skillset/soft-skills/
+    weight: 20
+
   - name: Projects
-    url: projects
+    identifier: projects
     weight: 40
-    sub_menus:
-      - name: MainProjects
-        url: /projects/main-projects/
-        weight: 1
-      - name: SubProjects
-        url: /projects/sub-projects/
-        weight: 2
+  - name: MainProjects
+    parent: projects
+    url: projects/main-projects/
+    weight: 10
+  - name: SubProjects
+    parent: projects
+    url: projects/sub-projects/
+    weight: 20
+
   - name: Contact
-    url: contact
+    identifier: contact
     weight: 50
-    sub_menus:
-      - name: ContactForm
-        url: /contact/form/
-        weight: 1
-      - name: SocialMediaLinks
-        url: /contact/social-media/
-        weight: 2
+  - name: ContactForm
+    parent: contact
+    url: contact/form/
+    weight: 10
+  - name: SocialMediaLinks
+    parent: contact
+    url: contact/social-media/
+    weight: 20
