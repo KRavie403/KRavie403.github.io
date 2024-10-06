@@ -1,7 +1,5 @@
 ---
 title: "GoRunJump"
-image:
-  filename: 'featured.png'
 ---
 
 1인 개발 Unity 기반 모바일 레이싱 게임입니다.
@@ -51,3 +49,6 @@ ___________________________________________________
 <br><br>
 <br><br>
 <br><br>
+
+# **영상 링크**
+[![GoRunJump 게임 플레이 영상](https://youtu.be/8U53EGoqHm4.jpg)](https://youtu.be/8U53EGoqHm4)
