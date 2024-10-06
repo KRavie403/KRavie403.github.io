@@ -1,4 +1,4 @@
 ---
-title: "**프로젝트**"
+title: "프로젝트"
 view: compact
 ---
