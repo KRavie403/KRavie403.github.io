@@ -51,12 +51,13 @@ ___________________________________________________
 <br><br>
 
 # **영상 링크**
-<div style="text-align: left;">
-    <a href="https://youtu.be/8U53EGoqHm4">
-        <img src="featured(9).png" style="width: 50%; max-width: 300px;">
-    </a>
-</div>
+<a href="https://youtu.be/8U53EGoqHm4">
+    <img src="featured(9).png" alt="GoRunJump 게임 플레이 영상" style="width: 70%; max-width: 300px; display: block; margin: 0 auto 0 0;">
+</a>
+
 <br><br>
 
 # **GitHub**
-[![GitHub-GoRunJump](featured(8).png)](https://github.com/KRavie403/GoRunJumpProject)
+<a href="https://github.com/KRavie403/GoRunJumpProject">
+    <img src="featured(8).png" style="display: block; margin: 0 auto 0 0;">
+</a>
