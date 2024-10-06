@@ -11,7 +11,7 @@ COALA_JBNU<br><br>
 
 <!--more-->
 <a href="https://github.com/KRavie403/DungeonsProject">
-    <img src="featured(14).png" style="display: block; margin: 0 auto 0 0;">
+    <img src="featured(2).png" style="display: block; margin: 0 auto 0 0;">
 </a>
 <br><br>
 
@@ -30,15 +30,14 @@ ___________________________________________________
 전투와 선택을 통해 12가지의 엔딩 및 17가지 엔딩 컬렉션을 흭득할 수 있습니다.<br><br>
 <br><br>  
 
-
 ## **추가 정보**  
 12세 이상  
 폭력<br><br>
-
+<br><br>
 
 ## **게임 사양**  
  • 지원 플랫폼 : Android (Google플레이 스토어)<br><br>
-
+<br><br>
 
 ## **담당 파트**
 
@@ -49,7 +48,7 @@ ___________________________________________________
 &nbsp;&nbsp;각 스테이지에 적용되는 배경 음악을 모두 작곡하였습니다.  
 
 ### • 아트 제작
-&nbsp;&nbsp;게임에 나오는 대부분의 아트를 제작하였습니다.
+&nbsp;&nbsp;게임에 나오는 대부분의 아트를 제작하였습니다.  
 &nbsp;&nbsp;`인물` `몬스터` `무기`  `이펙트` `아이템` `맵` `채팅시스템` `엔딩씬` `UI`
 <br><br>
 <br><br>
