@@ -1,10 +1,11 @@
 ---
-title: "**Dungeons**"
+title: "Dungeons"
 ---
 
 팀원 6명에서 Unity 기반 턴제 RPG 게임을 제작하였습니다.
 
 <!--more-->
+
 
 **<span style="font-size: 1.5em;">게임 소개</span>**
 
