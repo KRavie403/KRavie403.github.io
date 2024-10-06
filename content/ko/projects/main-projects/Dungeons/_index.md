@@ -2,6 +2,7 @@
 title: "Dungeons"
 banner:
   image: 'banner(2).png'
+  caption: ''
 ---
 
 팀원 6명에서 Unity 기반 턴제 RPG 게임을 제작하였습니다.

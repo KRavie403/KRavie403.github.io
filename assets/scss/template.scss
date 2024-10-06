@@ -61,14 +61,14 @@ body {
 
 /* Dark Mode Styles */
 body.dark {
-  background-color: #41486e; // 다크 모드 배경색
+  background-color: #1a1a1b; // 다크 모드 배경색
   color: white; // 기본 텍스트 색상
 
   nav {
     ul {
       li {
         ul {
-          background-color: #1c1d25; // 다크 모드 서브 메뉴 배경색
+          background-color: #22232c; // 다크 모드 서브 메뉴 배경색
         }
       }
     }
@@ -98,4 +98,8 @@ body.light {
       }
     }
   }
+}
+
+.light-background {
+  background-color: #c3e1e9; // 라이트 모드 배경색
 }

@@ -2,6 +2,7 @@
 title: 12조, 캡스톤 경진대회 최우수상 수상
 date: 2024-06-21
 image:
+  filename: feature.png
   focal_point: 'top'
 ---
 
