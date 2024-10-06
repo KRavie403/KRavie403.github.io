@@ -52,7 +52,7 @@ ___________________________________________________
 
 # **영상 링크**
 <a href="https://youtu.be/8U53EGoqHm4">
-    <img src="featured(9).png" alt="GoRunJump 게임 플레이 영상" style="width: 80%; display: block; margin: 0 auto 0 0;">
+    <img src="featured(9).png" alt="GoRunJump 게임 플레이 영상" style="display: block; margin: 0 auto 0 0;">
 </a>
 
 <br><br>
