@@ -51,7 +51,11 @@ ___________________________________________________
 <br><br>
 
 # **영상 링크**
-[![GoRunJump 게임 플레이 영상](featured(1).png)](https://youtu.be/8U53EGoqHm4)
+<div style="text-align: left;">
+    <a href="https://youtu.be/8U53EGoqHm4">
+        <img src="featured(9).png" style="width: 50%; max-width: 300px;">
+    </a>
+</div>
 <br><br>
 
 # **GitHub**
