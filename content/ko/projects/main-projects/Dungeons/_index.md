@@ -1,6 +1,7 @@
 ---
 title: "Dungeons"
-image: 'featured.png'
+image:
+  filename: 'featured.png'
 banner:
   image: 'banner(2).png'
   caption: ''
