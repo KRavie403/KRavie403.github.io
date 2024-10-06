@@ -51,4 +51,4 @@ ___________________________________________________
 <br><br>
 
 # **영상 링크**
-[![GoRunJump 게임 플레이 영상](https://youtu.be/8U53EGoqHm4.jpg)](https://youtu.be/8U53EGoqHm4)
+[![GoRunJump 게임 플레이 영상](featured(1).png)](https://youtu.be/8U53EGoqHm4)
