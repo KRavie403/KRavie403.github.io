@@ -100,4 +100,6 @@ ___________________________________________________
 <br><br>
 
 ## **GitHub**
-[Dungeons GitHub](https://github.com/KRavie403/DungeonsProject)
+<a href="https://github.com/KRavie403/DungeonsProject">
+    <img src="featured(14).png" style="display: block; margin: 0 auto 0 0;">
+</a>
