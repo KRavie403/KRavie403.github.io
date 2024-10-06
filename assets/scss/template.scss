@@ -7,3 +7,99 @@
 .cta-group {
   justify-content: center;
 }
+
+/* Navigation Menu */
+nav {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      position: relative;
+      display: inline-block;
+      padding: 10px;
+
+      // Show sub-menu on hover
+      &:hover > ul {
+        display: block;
+      }
+
+      // Sub-menu styling
+      ul {
+        display: none; // 서브 메뉴는 기본적으로 숨김
+        position: absolute; // 위치 설정
+        top: 100%;
+        left: 0;
+        background-color: #d8f6ff; // 기본 배경색 (라이트 모드)
+        padding: 0;
+        min-width: 200px;
+
+        li {
+          display: block;
+          padding: 10px;
+          color: black; // 라이트 모드에서 서브 메뉴 텍스트 색상
+
+          a {
+            color: black; // 라이트 모드에서 링크 색상
+
+            &:hover {
+              background-color: #d8f6ff; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/* 기본 스타일 (라이트 모드가 기본) */
+body {
+  background-color: #c3e1e9; // 라이트 모드 배경색
+  color: black; // 기본 텍스트 색상
+}
+
+/* Dark Mode Styles */
+body.dark {
+  background-color: #1a1a1b; // 다크 모드 배경색
+  color: white; // 기본 텍스트 색상
+
+  nav {
+    ul {
+      li {
+        ul {
+          background-color: #22232c; // 다크 모드 서브 메뉴 배경색
+        }
+      }
+    }
+  }
+}
+
+/* Light Mode Styles (기본적으로 라이트 모드) */
+body.light {
+  background-color: #d8f6ff; // 라이트 모드 배경색
+  color: black; // 기본 텍스트 색상
+
+  nav {
+    ul {
+      li {
+        ul {
+          background-color: #f1f1f1; // 라이트 모드 서브 메뉴 배경색
+          color: black; // 서브 메뉴 텍스트 색상
+
+          a {
+            color: black; // 라이트 모드에서 링크 색상
+
+            &:hover {
+              background-color: #d8f6ff; // 서브 메뉴 항목에 마우스 오버 시 배경색 변경
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.light-background {
+  background-color: #c3e1e9; // 라이트 모드 배경색
+}

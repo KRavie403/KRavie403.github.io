@@ -5,17 +5,61 @@
 
 main:
   - name: Home
+    identifier: home
+    weight: 10
+  - name: Welcome
+    parent: home
     url: /
     weight: 10
-  - name: About
-    url: about
+  - name: Latest Updates
+    parent: home
+    url: home/latest-updates
     weight: 20
+
+  - name: About
+    identifier: about
+    weight: 20
+  - name: Biography
+    parent: about
+    url: about/biography/
+    weight: 10
+  - name: Mission & Vision
+    parent: about
+    url: about/mission-vision/
+    weight: 20
+
   - name: SkillSet
-    url: skillset
+    identifier: skillset
     weight: 30
+  - name: TechnicalSkills
+    parent: skillset
+    url: skillset/technical-skills/
+    weight: 10
+  - name: SoftSkills
+    parent: skillset
+    url: skillset/soft-skills/
+    weight: 20
+
   - name: Projects
-    url: projects
+    identifier: projects
     weight: 40
+  - name: MainProjects
+    parent: projects
+    url: projects/main-projects/
+    weight: 10
+  - name: SubProjects
+    parent: projects
+    url: projects/sub-projects/
+    weight: 20
+
   - name: Contact
-    url: contact
+    identifier: contact
     weight: 50
+  - name: ContactForm
+    parent: contact
+    url: contact/form/
+    weight: 10
+  - name: SocialMediaLinks
+    parent: contact
+    url: contact/social-media/
+    weight: 20
