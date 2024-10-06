@@ -52,3 +52,7 @@ ___________________________________________________
 
 # **영상 링크**
 [![GoRunJump 게임 플레이 영상](featured(1).png)](https://youtu.be/8U53EGoqHm4)
+<br><br>
+
+# **GitHub**
+[![GitHub-GoRunJump](featured(8).png)](https://github.com/KRavie403/GoRunJumpProject)
