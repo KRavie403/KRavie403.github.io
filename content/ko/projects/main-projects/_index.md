@@ -1,6 +1,5 @@
 ---
 title:
-view: compact
 
 sections: 
   - block: collection
