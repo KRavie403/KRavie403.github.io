@@ -2,7 +2,7 @@
 title: Latest Updates
 
 # Listing view
-layout: list
+layout: page
 view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
