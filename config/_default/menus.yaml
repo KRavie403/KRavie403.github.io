@@ -13,7 +13,7 @@ main:
     weight: 10
   - name: Latest Updates
     parent: home
-    url: home/latest-updates/
+    url: home/latest-updates
     weight: 20
 
   - name: About
