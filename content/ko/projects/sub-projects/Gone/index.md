@@ -1,5 +1,5 @@
 ---
-title: "Gone"
+title: Gone
 banner:
   image: 'banner(2).png'
   caption: ''
@@ -14,7 +14,8 @@ COALA_JBNU<br><br>
     <img src="featured(14).png" style="display: block; margin: 0 auto 0 0;">
 </a>
 <br><br>
-**<span style="font-size: 1.5em;">게임 소개</span>**
+
+## **게임 소개**
 
 정보국 요원이 되어 AI의 공격을 저지하세요.
 
@@ -29,12 +30,15 @@ ___________________________________________________
 전투와 선택을 통해 12가지의 엔딩 및 17가지 엔딩 컬렉션을 흭득할 수 있습니다.<br><br>
 <br><br>  
 
+
 ## **추가 정보**  
 12세 이상  
-폭력  
+폭력<br><br>
+
 
 ## **게임 사양**  
- • 지원 플랫폼 : Android (Google플레이 스토어)
+ • 지원 플랫폼 : Android (Google플레이 스토어)<br><br>
+
 
 ## **담당 파트**
 
