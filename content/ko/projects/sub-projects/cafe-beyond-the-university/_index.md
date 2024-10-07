@@ -1,7 +1,7 @@
 ---
 title: 학교 너머 카페들(Java, Android Studio)
 banner:
-  image: 'banner(2).png'
+  image: 'cafebanner.png'
   caption: ''
 ---
 
