@@ -12,6 +12,7 @@ on:
       - feature/light-dark-mode
       - feature/home-latest-updates
       - feature/projects-main-projects
+      - feature/projects-sub-projects
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
