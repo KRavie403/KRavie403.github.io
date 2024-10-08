@@ -19,25 +19,38 @@ sections:
     design:
       css_class: light-background 
   
-  - block: collection
+
+  - block: slider
     content:
-      title: '메인 프로젝트'
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: projects/main-projects
+      slides:
+      - title: ⚔️ Dungeons
+        content: 다양한 영웅으로 전략을 짜서 보스의 공격을 저지하세요.
+        align: center
+        background:
+          image:
+            filename: main-project(1).png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: GoRunJump ☕️
+        content: '플레이어는 각 스테이지의 골인 지점을 향해 레이싱하는 게임입니다.'
+        align: left
+        background:
+          image:
+            filename: main-project(2).png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
     design:
-      view: card
-      columns: '1'
-      css_class: light-background
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 
   - block: markdown
     content:
