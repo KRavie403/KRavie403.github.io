@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다. 더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인` `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.
+bio: 새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다.
 
 interests:
   - 게임 개발
@@ -56,3 +56,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
+&nbsp;&nbsp;새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다. 
+
+&nbsp;&nbsp;더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인` `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.
