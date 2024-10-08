@@ -2,8 +2,8 @@
 title:
 ---
 
-## 🛠 **보유 기술**
-
+# 🛠 **보유 기술**
+<br><br>
 
 ### **프로그래밍 언어**
 C#, Python, C++  
@@ -29,4 +29,4 @@ ERDCloud
 
 ERDCloud
 <a href="https://www.erdcloud.com/d/8FHkuNeQwxYg3hQNJ">
-    <img src="featured(1).png" style="display: block; margin: 0 auto 50px 0;">  
+    <img src="featured(2).png" style="display: block; margin: 0 auto 50px 0;">  
