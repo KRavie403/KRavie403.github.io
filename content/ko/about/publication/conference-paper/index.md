@@ -4,13 +4,6 @@ title: 'OTT 기반의 모션 검출 및 객체인식 모델 연구'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2024-09-27T00:00:00Z'
 doi: ''
@@ -24,10 +17,10 @@ publishDate: '2024-09-27T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Team12*
+publication_short: In *ASOMDORM*
 
-abstract: 최근 OTT 서비스의 이용 증가로 인해 많은 사람들이 일방향 미디어에 장시간 노출되고 있다[1]. 이는 영유아의 발달 과정에 부정적인 영향을 미치게 된다. 따라서 본 논문은 영유아의 건강한 미디어 매체의 접근을 위해 영유아가 화면 속 동작을 따라 움직이며 학습에 능동적으로 참여할 수 있는 상호작용 학습 콘텐츠를 개발하는 것을 목적으로 한다. OTT 셋톱박스에 내장된 카메라를 활용해 사용자 모션 인식을 진행하여, 영유아가 콘텐츠에서 요구하는 행동을 올바르게 수행하는지를 판단하는 기능을 구현하였다. 사용자 모션 인식은 MediaPipe Holistic을 활용하여 실시간으로 움직임을 감지하고, 학습에 사용되는 교구재 인식을 위한 객체 인식은 Custom CNN 모델을 통해 그의 사용 여부를 판단할 수 있게 제안했으며, 본 논문에서 객체 인식 모델은 85.71%의 정확도를 구현하였다.
+abstract: '최근 OTT 서비스의 이용 증가로 인해 많은 사람들이 일방향 미디어에 장시간 노출되고 있다[1]. 이는 영유아의 발달 과정에 부정적인 영향을 미치게 된다. 따라서 본 논문은 영유아의 건강한 미디어 매체의 접근을 위해 영유아가 화면 속 동작을 따라 움직이며 학습에 능동적으로 참여할 수 있는 상호작용 학습 콘텐츠를 개발하는 것을 목적으로 한다. OTT 셋톱박스에 내장된 카메라를 활용해 사용자 모션 인식을 진행하여, 영유아가 콘텐츠에서 요구하는 행동을 올바르게 수행하는지를 판단하는 기능을 구현하였다. 사용자 모션 인식은 MediaPipe Holistic을 활용하여 실시간으로 움직임을 감지하고, 학습에 사용되는 교구재 인식을 위한 객체 인식은 Custom CNN 모델을 통해 그의 사용 여부를 판단할 수 있게 제안했으며, 본 논문에서 객체 인식 모델은 85.71%의 정확도를 구현하였다.'
 
 tags: []
 
@@ -39,13 +32,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://github.com/KRavie403/KRavie403.github.io/blob/feature/about-publication/content/ko/about/publication/conference-paper/2024_conference.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ''
   preview_only: false
 
