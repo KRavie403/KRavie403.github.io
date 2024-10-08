@@ -7,7 +7,10 @@ title:
 
 ## 👤 **자기 소개**
 
-안녕하세요! 저는 IT 정보공학을 전공하는 대학생입니다. 새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다.
+안녕하세요! 저는 IT 정보공학을 전공하는 대학생입니다. 새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다.  
+  
+더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인`, `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.  
+
 <br><br>
 <br><br>
 
@@ -36,7 +39,6 @@ IT 정보공학과 (2020 - 현재)
 <br><br>
 
 # **보유 기술**
-<br><br>
 
 ### **프로그래밍 언어**
 C#, Python, C++  
@@ -55,10 +57,8 @@ Git, Visual Studio, Visual Code, Anaconda, Blender, GIMP
 <br><br>
 
 ### **ERD 도구**
-ERDCloud
-
-<br><br>
-<br><br>
+ERDCloud  
+  
 
 ERDCloud
 <a href="https://www.erdcloud.com/d/8FHkuNeQwxYg3hQNJ">
@@ -102,4 +102,5 @@ OPIC - Intermediate High
 
 <a href="https://kravie403.github.io/projects/sub-projects/motion-detection-object-recognition/">
     <img src="./assets/media/featured(14).png" style="display: block; margin: 0 auto 50px 0;">  
+<br><br>
 <br><br>
