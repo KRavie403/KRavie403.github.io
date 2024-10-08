@@ -1,6 +1,7 @@
 ---
-title: "Biography"
+title: Biography
 date: 2024-10-08
+type: landing
 
 sections:
   - block: hero
