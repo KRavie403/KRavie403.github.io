@@ -1,6 +1,5 @@
 ---
 title: Latest Updates
-type: landing
 
 # Listing view
 view: compact
