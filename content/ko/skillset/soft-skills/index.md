@@ -3,7 +3,7 @@ title: "소프트 스킬"
 ---
 ## **PC 사용 능력**  
 
-<img src="featured(2).png" style="display: block; margin: 0 auto 50px 0;">
+<img src="featured(2).png" style="display: block; margin: 10px auto 50px 0;">
 
 <br><br>
 
