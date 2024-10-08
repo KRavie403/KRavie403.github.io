@@ -59,7 +59,3 @@ main:
     parent: contact
     url: contact/form/
     weight: 10
-  - name: SocialMediaLinks
-    parent: contact
-    url: contact/social-media/
-    weight: 20
