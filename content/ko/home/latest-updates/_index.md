@@ -17,7 +17,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: home/latest-updates
+      page_type: home/latest-updates/24-06-21-capstone-prize
     design:
       view: card
       columns: '1'
