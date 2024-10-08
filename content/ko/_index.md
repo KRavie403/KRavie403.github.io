@@ -48,7 +48,7 @@ sections:
           color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '200px'
+      slide_height: '500px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: true
@@ -93,7 +93,7 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '50px'
+      slide_height: '500px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: true
@@ -101,38 +101,4 @@ sections:
       interval: 2000
       spacing:
         margin: ['40px', '0', '40px', '0']       
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - about/publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-      css_class: light-background
 ---
