@@ -1,8 +1,5 @@
 ---
 title: Biography
-date: 2024-10-08
-type: landing
-
 ---
 
 ## 👤 자기 소개
