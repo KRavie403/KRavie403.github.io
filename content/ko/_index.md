@@ -21,7 +21,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest Updates
+      title: '메인 프로젝트'
       subtitle:
       text:
       count: 5
@@ -33,7 +33,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: projects/main-projects
     design:
       view: card
       columns: '1'
