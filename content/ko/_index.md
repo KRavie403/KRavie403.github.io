@@ -82,7 +82,7 @@ sections:
         align: right
         background:
           image:
-            filename: sub-project(2).png
+            filename: sub-project(3).png
             filters:
               brightness: 0.5
           position: center
