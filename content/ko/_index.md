@@ -46,10 +46,53 @@ sections:
           color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
+      slide_height: '200px'
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
+  - block: slider
+    content:
+      title: 서브 프로젝트
+      slides:
+      - title: ♟️ Gone
+        content: 정보국 요원이 되어 AI의 공격을 저지하세요.
+        align: center
+        background:
+          image:
+            filename: sub-project(1).png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: OTT 셋톱박스에 연결된 카메라 기반의 모션검출 및 객체인식 시스템 ☕️
+        content: '모션 검출과 객체인식 기술을 활용한 프로젝트입니다.'
+        align: left
+        background:
+          image:
+            filename: sub-project(2).png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 학교 너머 카페들
+        content: '안드로이트 스튜디오(Android Studio) 를 이용하여 지도 API를 이용한 카페 추천 앱을 만들었습니다.'
+        align: right
+        background:
+          image:
+            filename: sub-project(2).png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '200px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 
