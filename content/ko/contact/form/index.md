@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-10-06
 
 type: landing
 
@@ -9,23 +9,23 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        문의 사항이나 프로젝트에 대해 아래의 방법으로 언제든지 연락해 주세요.
+      email: yoo9379@gmail.com
+      phone: ''
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 567 Baekje-daero
+        city: Jeonju-si
+        region: Jeollabuk-do
+        postcode: '54896'
+        country: South Korea
+        country_code: KR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '35.846893'
+        longitude: '127.129615'
+      directions: 전북대학교는 전주시 덕진구에 위치하며, 전주시 내에서 버스 또는 택시를 이용해 전북대학교 정문으로 이동하실 수 있습니다. 컴퓨터인공지능학부는 공과대학 7호관에 위치하고 있으며, 정문에서 교내 셔틀버스를 타고 해당 건물까지 이동 가능합니다.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 17:00 to 22:00'
+        - 'Wednesday 18:00 to 22:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
