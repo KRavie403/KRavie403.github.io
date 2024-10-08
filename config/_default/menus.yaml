@@ -23,7 +23,7 @@ main:
     parent: about
     url: authors
     weight: 10
-  - name: Mission & Vision
+  - name: Publications
     parent: about
     url: about/publication/
     weight: 20
