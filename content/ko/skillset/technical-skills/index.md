@@ -10,7 +10,7 @@ C#, Python, C++
 <br><br>
 
 ### **프레임 워크**
-Unity, Firebase, Hugo  
+Unity, Firebase  
 <br><br>
 
 ### **데이터베이스**
