@@ -16,65 +16,84 @@ sections:
         <br>
         
         I am a **Client Software Engineer** proficient in C# development. I am currently located in **Jeonju**.
-  
-  - block: collection
+
+  - block: slider
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
+      title: Main Project
+      slides:
+      - title: ⚔️ Dungeons
+        content: Develop strategies with various heroes to defend against the boss's attacks.
+        align: center
+        background:
+          image:
+            filename: main-project(1).png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: GoRunJump ☕️
+        content: 'This is a racing game where players aim to reach the goal point of each stage.'
+        align: left
+        background:
+          image:
+            filename: main-project(2).png
+            filters:
+              brightness: 0.7
           position: center
-          size: cover
-          text_color_light: true
+          color: '#555'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        margin: ['40px', '0', '40px', '0'] 
 
-  - block: collection
+  - block: slider
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
+      title: Sub Projects
+      slides:
+      - title: ♟️ Gone
+        content: Become an intelligence agent and stop AI attacks.
+        align: center
+        background:
+          image:
+            filename: sub-project(1).png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Motion Detection and Object Recognition System with Camera Connected to OTT Set-Top Box ☕️
+        content: 'A project utilizing motion detection and object recognition technologies.'
+        align: left
+        background:
+          image:
+            filename: sub-project(2).png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Cafes Beyond School
+        content: 'Developed a cafe recommendation app using Android Studio with a map API.'
+        align: right
+        background:
+          image:
+            filename: sub-project(3).png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
     design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
+      spacing:
+        margin: ['40px', '0', '40px', '0']       
 ---

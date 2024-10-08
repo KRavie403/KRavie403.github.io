@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Skillset
 
 # Listing view
-view: citation
+view: single
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

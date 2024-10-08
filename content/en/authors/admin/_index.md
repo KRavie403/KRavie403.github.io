@@ -1,41 +1,34 @@
 ---
 # Display name
-title: 김유림
+title: Yoo Rim Kim
 
 # Full Name (for SEO)
-first_name: 유림
-last_name: 김
+first_name: Yoo Rim
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Undergraduate student in IT Information Engineering
+role: Undergraduate in IT Information Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Jeunbuk University
+  - name: Jeonbuk National University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a game programmer who enjoys new challenges and continually solves problems to grow.
 
 interests:
+  - Game Development
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Undergraduate - IT Information Engineering
+      institution: Jeonbuk National University
+      year: 2020 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,12 +38,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yoo9379@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/KRavie403
@@ -61,17 +48,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yoo9379@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
 ---
+&nbsp;&nbsp;I am a game programmer who enjoys new challenges and continually solves problems to grow.
 
-새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다.
-
-더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인`, `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.
+&nbsp;&nbsp;To become a better developer, I am consistently learning in various fields such as `planning`, `design`, and `composition`, not just game development.
