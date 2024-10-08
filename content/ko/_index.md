@@ -22,6 +22,7 @@ sections:
 
   - block: slider
     content:
+      title: 메인 프로젝트
       slides:
       - title: ⚔️ Dungeons
         content: 다양한 영웅으로 전략을 짜서 보스의 공격을 저지하세요.
@@ -45,7 +46,7 @@ sections:
           color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '300px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
