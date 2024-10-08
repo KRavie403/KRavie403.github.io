@@ -21,7 +21,7 @@ main:
     weight: 20
   - name: Biography
     parent: about
-    url: authors
+    url: authors/김유림/
     weight: 10
   - name: Publications
     parent: about
