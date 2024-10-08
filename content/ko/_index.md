@@ -17,7 +17,9 @@ sections:
         C# 개발 등에 숙련된 **Client Software 엔지니어를 꿈꾸는 김유림**입니다. 
         현재 **전북대**에 재학 중이며 **전주**에 있습니다.
     design:
-      css_class: light-background 
+      css_class: light-background
+      spacing:
+        margin: ['20px', '0', '20px', '0']        
   
 
   - block: slider
@@ -52,6 +54,8 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+      spacing:
+        margin: ['40px', '0', '40px', '0'] 
 
   - block: slider
     content:
@@ -95,6 +99,8 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+      spacing:
+        margin: ['40px', '0', '40px', '0']       
 
   - block: markdown
     content:
