@@ -1,11 +1,25 @@
 ---
 title: Latest Updates
+type: landing
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    content:
+      title: Latest Updates
+      subtitle:
+      text:
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: home/latest-updates
+    design:
+      view: card
+      columns: '1'
+      css_class: light-background
 ---
