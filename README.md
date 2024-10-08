@@ -1,48 +1,105 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+---
+title: 
+---
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+<a href="https://kravie403.github.io/projects/main-projects/dungeons/">
+    <img src="./assets/media/featured(1).png" style="display: block; margin: 0 auto 50px 0;">  
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## 👤 **자기 소개**
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+안녕하세요! 저는 IT 정보공학을 전공하는 대학생입니다. 기술을 통해 문제를 해결하고, 새로운 프로젝트에 도전하는 것을 좋아합니다.
+<br><br>
+<br><br>
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## 🎓 **학력**
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+**전북대학교**  
+IT 정보공학과 (2020 - 현재)
+<br><br>
+<br><br>
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+## 💼 **경력**
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+### **AI 기반 모션 인식 시스템 콘텐츠 개발**  
+  8주 동안 텔로스 기업에서 AI 기반 모션 인식 시스템을 통한 콘텐츠 개발을 진행하였습니다.<br><br>
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### **OTT 셋톱박스 모션 검출 시스템**  
+  OTT 셋톱박스에 연결된 카메라를 통해 모션 검출 및 객체 인식을 수행하는 시스템 개발 프로젝트에 참여. 캡스톤 경진대회에서 최우수상 수상.
+<br><br>
+<br><br>
 
-## We ask you, humbly, to support this open source movement
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+## **PC 사용 능력**  
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+<img src="./content/ko/skillset/soft-skills/featured(2).png" style="display: block; margin: 10px auto 50px 0;">
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+<br><br>
 
-## Demo credits
+# **보유 기술**
+<br><br>
 
-Please replace the demo images with your own.
+### **프로그래밍 언어**
+C#, Python, C++  
+<br><br>
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### **프레임 워크**
+Unity, Firebase  
+<br><br>
+
+### **데이터베이스**
+MySQL, Firebase
+<br><br>
+
+### **도구 및 기술**
+Git, Visual Studio, Visual Code, Anaconda, Blender, GIMP
+<br><br>
+
+### **ERD 도구**
+ERDCloud
+
+<br><br>
+<br><br>
+
+ERDCloud
+<a href="https://www.erdcloud.com/d/8FHkuNeQwxYg3hQNJ">
+    <img src="./content/ko/skillset/technical-skills/featured(2).png" style="display: block; margin: 0 auto 50px 0;">  
+<br><br>
+
+## **언어**  
+
+### 한국어 :kr:
+
+원어민
+
+### 영어 :us:
+
+OPIC - Intermediate High
+<br><br>
+<br><br>
+<br><br>
+
+
+## 🕹️ **메인 프로젝트**
+
+<a href="https://kravie403.github.io/projects/main-projects/dungeons/">
+    <img src="./assets/media/featured(10).png" style="display: block; margin: 0 auto 50px 0;">  
+    
+
+<a href="https://kravie403.github.io/projects/main-projects/go-run-jump/">
+    <img src="./assets/media/featured(11).png" style="display: block; margin: 0 auto 50px 0;">
+
+<br><br>
+
+## 📖 **그 외 프로젝트**
+
+<a href="https://kravie403.github.io/projects/sub-projects/gone/">
+    <img src="./assets/media/featured(12).png" style="display: block; margin: 0 auto 50px 0;">  
+
+
+<a href="https://kravie403.github.io/projects/sub-projects/cafe-beyond-the-university/">
+    <img src="./assets/media/featured(13).png" style="display: block; margin: 0 auto 50px 0;">  
+
+
+<a href="https://kravie403.github.io/projects/sub-projects/motion-detection-object-recognition/">
+    <img src="./assets/media/featured(14).png" style="display: block; margin: 0 auto 50px 0;">  
+<br><br>
