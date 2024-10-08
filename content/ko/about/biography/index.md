@@ -15,18 +15,25 @@ title: 약력
 
 ## 💼 **경력**
 
-- **AI 기반 모션 인식 시스템 콘텐츠 개발**  
-  8주 동안 텔로스 기업에서 AI 기반 모션 인식 시스템을 통한 콘텐츠 개발을 진행하였습니다.
+### **AI 기반 모션 인식 시스템 콘텐츠 개발**  
+  8주 동안 텔로스 기업에서 AI 기반 모션 인식 시스템을 통한 콘텐츠 개발을 진행하였습니다.<br><br>
 
-- **OTT 셋톱박스 모션 검출 시스템**  
+### **OTT 셋톱박스 모션 검출 시스템**  
   OTT 셋톱박스에 연결된 카메라를 통해 모션 검출 및 객체 인식을 수행하는 시스템 개발 프로젝트에 참여. 캡스톤 경진대회에서 최우수상 수상.
+<br><br>
 <br><br>
 
 ## 🛠 **보유 기술**
 
-- **Languages**: C#, Python, C++
-- **Frameworks**: Unity, Firebase, Hugo
-- **Tools**: Git, Visual Studio, Visual Code, Anaconda, Blender, GIMP
+### **Languages** 
+C#, Python, C++  
+
+### **Frameworks**
+Unity, Firebase, Hugo  
+
+### **Tools**
+Git, Visual Studio, Visual Code, Anaconda, Blender, GIMP
+<br><br>
 <br><br>
 
 ## 🥏 **언어**  
@@ -38,6 +45,7 @@ title: 약력
 ### 영어 :us:
 
 OPIC - Intermediate High
+<br><br>
 <br><br>
 
 ## 🕹️ **메인 프로젝트**
