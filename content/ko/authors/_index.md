@@ -10,32 +10,25 @@ last_name: 김
 superuser: true
 
 # Role/position
-role: Undergraduate student in IT Information Engineering
+role: IT 정보공학 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Jeunbuk University
+  - name: 전북대학교
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다. 더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인` `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 게임 개발
+  - 인공지능
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course:  학부 - IT 정보공학
+      institution: 전북대학교
+      year: 2020 - 현재
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,12 +38,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yoo9379@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/KRavie403
@@ -61,17 +48,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yoo9379@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
 ---
-
-새로운 도전을 즐기고 끊임없이 문제를 해결하며 성장하는 게임 프로그래머입니다.
-
-더 좋은 개발을 하기 위해 게임 개발만 말고도 `기획`, `디자인`, `작곡` 등 다양한 분야를 꾸준히 배워가고 있습니다.
