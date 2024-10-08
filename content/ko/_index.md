@@ -118,12 +118,12 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: publications
       text: ""
       count: 5
       filters:
         folders:
-          - publication
+          - about/publication
         publication_type: 'article'
     design:
       view: citation
