@@ -16,6 +16,7 @@ on:
       - feature/contact-form
       - feature/about-biography
       - feature/skillset-technical-skills
+      - feature/about-publication
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
