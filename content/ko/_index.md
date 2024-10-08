@@ -9,14 +9,13 @@ sections:
     content:
       title: |
         포트폴리오
-        |클라이언트 개발자
       image:
         filename: avatar.png
       text: |
         <br>
         
-        C# 개발 등에 숙련된 **Client Software 엔지니어**입니다. 
-        현재 **전주**에 있습니다.
+        C# 개발 등에 숙련된 **Client Software 엔지니어를 꿈꾸는 김유림**입니다. 
+        현재 **전북대**에 재학 중이며 **전주**에 있습니다.
     design:
       css_class: light-background 
   
